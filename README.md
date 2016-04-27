@@ -6,9 +6,9 @@
 2. Add the following 
 ```
 Host awshost1
- Hostname publicDNSfromAWS etc.
+Hostname publicDNSfromAWS etc.
 User ubuntu
-IdentityFile "link to the .pem file"
+IdentityFile "link-to-the-.pem-file"
 ```
 The .pem file before usage should be run as ` chmod 400 cloud.pem `
 
