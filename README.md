@@ -9,7 +9,9 @@
 
 ####Write Excel Sheets Using Python
 
-I use xlrd xlwt modules in python to do this.
+I use xlrd xlwt modules in python to do this. -- This was not a very good idea.
+
+openpyxl is a better option, find a reference on how to use it in insultBot
 
 
 
