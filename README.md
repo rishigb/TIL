@@ -2,7 +2,7 @@
 
 ####Silicon Valley
 
-1. If you don't have depth, you don't exist. - Big Head is not given a position at Piep piper and then he remains unassigned because he doesn't add value as a person. He misses depth.
+1. If you don't have depth, you don't exist. - Big Head is not given a position at Piep piper and then he remains unassigned at Hooli  because he doesn't add value as a person. He misses depth.
 2. You need to be able to sell, technology doesn't matter, you have to be able to sell what you have. -If it wasn't was Erlich, funding would have been pulled off in the final funding deal.
 3. 
 
