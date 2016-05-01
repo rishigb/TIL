@@ -13,7 +13,9 @@ I use xlrd xlwt modules in python to do this. -- This was not a very good idea.
 
 openpyxl is a better option, find a reference on how to use it in insultBot
 
+####NodeJs
 
+[REPL](http://www.tutorialspoint.com/nodejs/nodejs_repl_terminal.htm) 
 
 
 #### To make SSH logins faster
