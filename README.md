@@ -33,7 +33,7 @@ The .pem file before usage should be run as ` chmod 400 cloud.pem `
 
 ####Python
 
-run script in the background using `python script.py &`
+run script in the background using `nohup python script.py &`
 
 Above will give you an id, to look at the status of this do `ps -e`
 
