@@ -45,5 +45,8 @@ I did come up with a hack though, I wrote a scrip that emails me the file. [Here
 
 I will probably use the above script to send me log files from time to time.
 
+**NOTE: Google doesn't let you send emails via SMTP when the script is running on AWS. It will keep blocking it. Hence I took to Yahoo. But I am sure there are better ways of doing this, if you find one, please let me know **
+
+
 
 
