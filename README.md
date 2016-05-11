@@ -31,6 +31,16 @@ The .pem file before usage should be run as ` chmod 400 cloud.pem `
 
 [This](http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/) link was very useful. Thanks to Josh Holla who explained me how this works.
 
+####Python
+
+run script in the background using `python script.py &`
+
+Above will give you an id, to look at the status of this do `ps -e`
+
+To kill the above script `kill id`
+
+
+
 ####File transfer with cloud computers
 
 `rsync -avp awshost1:~/path/to/file_on_source /path/to/destination`
