@@ -31,4 +31,19 @@ The .pem file before usage should be run as ` chmod 400 cloud.pem `
 
 [This](http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/) link was very useful. Thanks to Josh Holla who explained me how this works.
 
+####File transfer with cloud computers
+
+`rsync -avp awshost1:~/path/to/file_on_source /path/to/destination`
+
+and 
+
+`scp FILE.TXT awshost1:~/`
+
+work very well.
+
+I did come up with a hack though, I wrote a scrip that emails me the file. [Here](https://gist.github.com/rishigb/970adf227ff415eb64a879ea142ca812) is the script, ofcourse there is a lot of scope for improvement here.
+
+I will probably use the above script to send me log files from time to time.
+
+
 
