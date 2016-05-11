@@ -39,6 +39,8 @@ Above will give you an id, to look at the status of this do `ps -e`
 
 To kill the above script `kill id`
 
+More info [here](http://superuser.com/questions/446808/how-to-manually-stop-a-python-script-that-runs-continuously-on-linux) .
+
 
 
 ####File transfer with cloud computers
