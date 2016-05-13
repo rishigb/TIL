@@ -41,6 +41,10 @@ To kill the above script `kill id`
 
 More info [here](http://superuser.com/questions/446808/how-to-manually-stop-a-python-script-that-runs-continuously-on-linux) .
 
+The `if __name__ == '__main__': ` statement means that the code will only get executed if the code is run directly, not imported. In fact, if you open up the REPL and type in import foo, nothing will be printed to your screen. This is incredibly useful. It means that you can put test code inside your script as you're developing it without worrying that it will interfere with your project. Not only that, it documents to other developers how the code in that file should be used and provides a simple test to check to make sure that you're not creating errors.
+
+
+
 
 
 ####File transfer with cloud computers
