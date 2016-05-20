@@ -17,6 +17,7 @@ openpyxl is a better option, find a reference on how to use it in insultBot
 
 [REPL](http://www.tutorialspoint.com/nodejs/nodejs_repl_terminal.htm) 
 
+While running `node _filename- >l.txt &` , ec2 server goes crazy and stops functioning, avoid it. 
 
 #### To make SSH logins faster
 1. Create a config file `vi ~/.ssh/config`
