@@ -74,4 +74,5 @@ To find process ID
 
 If it is running, it is going to retun you a number of the process.
 
+Number of processes `pidof node|wc -c` or `pgrep node`
 
