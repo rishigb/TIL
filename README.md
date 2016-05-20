@@ -66,4 +66,12 @@ I will probably use the above script to send me log files from time to time.
 
 
 
+####Shell Scripting
+
+To find process ID 
+
+`ps -efww | grep -w "[n]ode" | awk -vpid=$$ '$2 != pid { print $2 }'`
+
+If it is running, it is going to retun you a number of the process.
+
 
