@@ -76,3 +76,13 @@ If it is running, it is going to retun you a number of the process.
 
 Number of processes `pidof node|wc -c` or `pgrep node`
 
+
+####CronJobs
+
+The best way to get things working on your system it to run these. 
+
+on an Ubuntu
+`sudo crontab -e` 
+Add the details on when you want your script to run.
+
+I have realized that running a shell script on a cron job is better, since I can add multiple conditions to my shell script. [This](https://gist.github.com/rishigb/a6935a556cba911624d37a1cf7940b9d) is an example of a working shell script.
