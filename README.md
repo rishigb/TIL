@@ -86,3 +86,7 @@ on an Ubuntu
 Add the details on when you want your script to run.
 
 I have realized that running a shell script on a cron job is better, since I can add multiple conditions to my shell script. [This](https://gist.github.com/rishigb/a6935a556cba911624d37a1cf7940b9d) is an example of a working shell script.
+
+####Amazon EC2 
+
+I found this link of working and launching Node scripts using [Amazon EC2](https://www.youtube.com/watch?v=26bajyD4fLg&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV&index=9)
